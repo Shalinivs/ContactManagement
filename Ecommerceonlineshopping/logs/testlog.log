@@ -1,0 +1,464 @@
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:36:26] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--2097792465\testng-customsuite.xml
+
+[2025-10-26 19:36:26] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7ea08277: 78 ms
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@69e49a81: 13 ms
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@418c020b: 13 ms
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75798d03: 6 ms
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7f572c37: 12 ms
+[2025-10-26 19:36:43] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2add4d24: 0 ms
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:39:39] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--807654426\testng-customsuite.xml
+
+[2025-10-26 19:39:39] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@26a262d6: 78 ms
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@31da3d60: 22 ms
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b869331: 14 ms
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@167279d1: 7 ms
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a8136b3: 10 ms
+[2025-10-26 19:39:56] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1de6932a: 0 ms
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:41:42] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1721296791\testng-customsuite.xml
+
+[2025-10-26 19:41:42] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@45d64d27: 107 ms
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@36361ddb: 1 ms
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@45f421c: 18 ms
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7ee3d262: 7 ms
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a891add: 8 ms
+[2025-10-26 19:42:00] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5176d279: 0 ms
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 19:45:19] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1005909024\testng-customsuite.xml
+
+[2025-10-26 19:45:19] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5d7835a8: 108 ms
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@c1fca2a: 19 ms
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@27ace0b1: 13 ms
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43f61afb: 10 ms
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5ae95707: 9 ms
+[2025-10-26 19:45:37] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62891fc8: 0 ms
+[2025-10-26 22:54:00] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:00] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2025-10-26 22:54:00] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:54:01] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse-1536350988\testng-customsuite.xml
+
+[2025-10-26 22:54:01] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-10-26 22:54:19] WARN  LoginTest - warning message=incorrect password Wrong password.
+[2025-10-26 22:54:19] INFO  LoginTest - valid message=incorrect password Wrong password.
+[2025-10-26 22:54:19] ERROR LoginTest - error message=incorrect password Wrong password.
+[2025-10-26 22:54:34] WARN  LoginTest - warning message=invalid email format User does not exist.
+[2025-10-26 22:54:34] INFO  LoginTest - valid message=invalid email format User does not exist.
+[2025-10-26 22:54:34] ERROR LoginTest - error message=invalid email format User does not exist.
+[2025-10-26 22:54:42] WARN  LoginTest - warning message=mask input Wrong password.
+[2025-10-26 22:54:42] INFO  LoginTest - valid message=mask input Wrong password.
+[2025-10-26 22:54:42] ERROR LoginTest - error message=mask input Wrong password.
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7fc7c4a: 85 ms
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@213bd3d5: 17 ms
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d469831: 19 ms
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@d48673: 8 ms
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@61e7bf2f: 9 ms
+[2025-10-26 22:54:42] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1a28b346: 0 ms
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-26 22:58:20] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1913912394\testng-customsuite.xml
+
+[2025-10-26 22:58:20] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-26 22:58:37] INFO  LoginTest - warning message=incorrect password Wrong password.
+[2025-10-26 22:58:37] ERROR LoginTest - valid message=incorrect password Wrong password.
+[2025-10-26 22:58:37] WARN  LoginTest - error message=incorrect password Wrong password.
+[2025-10-26 22:58:37] WARN  LoginTest - error message=incorrect password Wrong password.
+[2025-10-26 22:58:37] WARN  LoginTest - error message=incorrect password Wrong password.
+[2025-10-26 22:58:52] INFO  LoginTest - warning message=invalid email format User does not exist.
+[2025-10-26 22:58:52] ERROR LoginTest - valid message=invalid email format User does not exist.
+[2025-10-26 22:58:52] WARN  LoginTest - error message=invalid email format User does not exist.
+[2025-10-26 22:58:52] WARN  LoginTest - error message=invalid email format User does not exist.
+[2025-10-26 22:58:52] WARN  LoginTest - error message=invalid email format User does not exist.
+[2025-10-26 22:59:00] INFO  LoginTest - warning message=mask input Wrong password.
+[2025-10-26 22:59:00] ERROR LoginTest - valid message=mask input Wrong password.
+[2025-10-26 22:59:00] WARN  LoginTest - error message=mask input Wrong password.
+[2025-10-26 22:59:00] WARN  LoginTest - error message=mask input Wrong password.
+[2025-10-26 22:59:00] WARN  LoginTest - error message=mask input Wrong password.
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7aa9e414: 77 ms
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@470a659f: 18 ms
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@74db12c2: 13 ms
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@548d5ed3: 8 ms
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a28b346: 8 ms
+[2025-10-26 22:59:00] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@25e49cb2: 0 ms
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 10:55:19] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1700087951\testng-customsuite.xml
+
+[2025-10-29 10:55:19] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@65327f5: 66 ms
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6a84bc2a: 13 ms
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60921b21: 12 ms
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c211fd0: 9 ms
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@25d958c6: 11 ms
+[2025-10-29 10:55:26] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4482469c: 0 ms
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:02:45] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1298170370\testng-customsuite.xml
+
+[2025-10-29 11:02:45] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@35c09b94: 61 ms
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4525d1d3: 16 ms
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@34b9fc7d: 11 ms
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@695a69a1: 10 ms
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1b32cd16: 10 ms
+[2025-10-29 11:02:49] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4bdcaf36: 0 ms
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:03:39] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1167863086\testng-customsuite.xml
+
+[2025-10-29 11:03:39] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2d0bfb24: 74 ms
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7c974942: 16 ms
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@27f1bbe0: 11 ms
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b1abd11: 9 ms
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bdcaf36: 8 ms
+[2025-10-29 11:03:43] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@61d01788: 0 ms
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:04:53] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1041357319\testng-customsuite.xml
+
+[2025-10-29 11:04:53] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@a567e72: 57 ms
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b1c0397: 1 ms
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3703bf3c: 8 ms
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@847f3e7: 5 ms
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a03bb68: 5 ms
+[2025-10-29 11:05:06] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e868ef5: 0 ms
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-29 11:11:22] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse--1172422065\testng-customsuite.xml
+
+[2025-10-29 11:11:22] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@545e57d7: 77 ms
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a5905d9: 18 ms
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4cbf4f53: 14 ms
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@59532566: 8 ms
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1d96d872: 11 ms
+[2025-10-29 11:11:59] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5c748168: 0 ms
